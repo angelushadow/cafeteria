@@ -7,6 +7,7 @@
 	JPA H2	
 	Swagger 2.9.2
 	Spring Boot 2.7.9
+	Lombok 1.18.26
 	
 	
 #Descripcion
