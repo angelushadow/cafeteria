@@ -1,4 +1,4 @@
-# konecta
+# cafetería
 
 # Tecnologia
 
@@ -12,9 +12,7 @@
 
 # Descripcion
 
-	Aplicacion Creada para el proceso de seleccion de la compañia Konecta
-
-	software para la cafetería de una de sus sedes, que
+	Software para la cafetería de una de sus sedes, que
 	permita almacenar y gestionar el inventario de sus productos.
 	Este software debe permitir crear, editar, eliminar y listar todos los productos registrados
 	en el sistema.
