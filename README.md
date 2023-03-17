@@ -1,6 +1,6 @@
 # konecta
 
-#Tecnologia
+# Tecnologia
 
 	Apache Maven 3.8.5
 	java 8
@@ -10,7 +10,7 @@
 	Lombok 1.18.26
 
 
-#Descripcion
+# Descripcion
 
 	Aplicacion Creada para el proceso de seleccion de la compañia Konecta
 
@@ -24,7 +24,7 @@
 	vendido y registrar en una tabla la venta realizada (si el producto no cuenta con stock
 	mayor a cero debe mostrar un mensaje informando que no es posible realizar la venta).
 
-#Configuracion
+# Configuracion
 
 	Realizar el clone del repositorio y ejecutar el comando mvn install para la descarga de las dependencias
 
